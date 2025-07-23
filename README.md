@@ -1,4 +1,4 @@
-## Hey, I'm Juan!
+## Hey, I'm Juan Corredor!
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Juan_Pablo_Corredor_Castañeda-blue?logo=Linkedin&logoColor=blue&style=social&link=https://www.linkedin.com/in/juan-pablo-corredor-castaneda-06132326a/)](https://www.linkedin.com/in/juan-pablo-corredor-castaneda-06132326a/)
 [![Gmail](https://img.shields.io/badge/Email-jcorredorca@unal.edu.co-red?logo=gmail&style=social)](mailto:jcorredorca@unal.edu.co)

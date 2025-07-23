@@ -4,7 +4,7 @@
 [![Gmail](https://img.shields.io/badge/Email-jcorredorca@unal.edu.co-red?logo=gmail&style=social)](mailto:jcorredorca@unal.edu.co)
 [![GitHub](https://img.shields.io/github/followers/jcorredorca?label=Follow&style=social)](https://github.com/jcorredorca)
 
-* I am a Computer Science student from [Boyacá, Colombia](https://www.youtube.com/watch?v=omX5W1BdceQ) 🇨🇴
+* I am a Computer Science student from [Boyacá, Colombia](https://www.youtube.com/watch?v=omX5W1BdceQ)
 * Techstack: `.py`, `.js`
 
 ### GitHub Stats
